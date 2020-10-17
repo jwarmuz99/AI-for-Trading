@@ -36,9 +36,9 @@ Projects completed for Udacity's "AI for Trading" Nanodegree
 - Measuring Jacquard- and Cosine-Similarity of financial statements over time
 - Creating alpha factor and analyzing its performance
 
-### Project 6 - Analyzing Stock Sentiment from Twits
+### Project 6 - Analyzing Stock Sentiment from Tweets
 
-- Pre-processing, lemmatizing, creating a Bag of Words, and filtering twits
+- Pre-processing, lemmatizing, creating a Bag of Words, and filtering tweets
 - Training a LSTM Neural Net
 - Using it for sentiment prediction on various stocks
 
